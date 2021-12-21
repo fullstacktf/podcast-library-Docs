@@ -1,0 +1,75 @@
+body  {
+  font-family:IBM Plex Mono,Cantarell,Arial, Helvetica, sans-serif;
+  color: rgb(19, 18, 18);
+  background-color: #f5eeee;
+  font-size: 16px;
+}
+
+	table, th, td {
+	            border: 1px solid black;
+			        padding: 10px;
+}
+ 
+th {
+  background: #5bbeff ;
+}
+td {
+  background: #d9efe0 ;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+header { 
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+color: #ffffff; 
+font-size: 18px; 
+font-weight: 400; 
+text-align: center; 
+background: #5496c2; 
+margin: 0 0 25px; 
+overflow: hidden; 
+padding: 15px; 
+border-radius: 35px 0px 35px 0px; 
+-moz-border-radius: 35px 0px 35px 0px; 
+-webkit-border-radius: 35px 0px 35px 0px; 
+border: 2px solid #5878ca;}
+
+h3 {
+  background: #f7f5f5;
+  font-weight: bold;
+  padding: 15px;
+  border-left:8px solid #028484;
+  border-top-left-radius:8px;
+  border-bottom-left-radius:8px;
+}
+img tecno {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-top-left-radius:8px;
+  border-bottom-left-radius:8px;
+}
+h4 {
+  background-color: #d9edc2;
+  border:#b2ce96;
+  width:100px;
+  margin:40px 20px;
+  padding:20px;
+}
+endpoints {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-left:8px solid #028484;
+}
+h5 {
+  color: #107025;
+  font-weight: normal;
+  font-size: 20px;
+  font-family: Arial;
+  text-transform: lowercase;
+}
