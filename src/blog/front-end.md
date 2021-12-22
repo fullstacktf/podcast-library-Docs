@@ -103,4 +103,4 @@ title: Front-end
 
  
 ### pendientes y futuras actualizaciones<a name="id6"></a>
-En el grupo tenemos pensado para futuras modificaciones sumar la lupa para realizar las busquedas.
+En el grupo tenemos pensado para futuras modificaciones tales como,sumar la lupa para realizar las busquedas.
