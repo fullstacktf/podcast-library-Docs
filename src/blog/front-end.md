@@ -2,7 +2,7 @@
 title: Front-end
 
 ---
- En este apartado vamos a desarrollar el **Fronted** de nuestro proyecto,es decir la capa de acceso a datos.Hemos cambiado algunas tecnologías por votación del grupo y finalmente hemos optado por trabajar con React, Typescript & Chakra UI client.En cuanto a los sprint el 2 y 3 no contenian tareas de Front-end.
+ En este apartado vamos a desarrollar el **Front-end** de nuestro proyecto, es decir la capa de un sitio web que interactúa con los usuarios, por eso decimos que está del lado del cliente. Hemos cambiado algunas tecnologías por votación del grupo y finalmente hemos optado por trabajar con React, Typescript & Chakra UI client. En cuanto a los sprint el 2 y 3 no contenian tareas de Front-end.
  
 **Contenido**   
 
@@ -12,14 +12,14 @@ title: Front-end
 4. [Sexto sprint](#id4)
 
 ### Primer sprint: Mockups<a name="id1"></a>
- Aquí los 4 integrantes realizamos en figma un mockup, para presentarle al Owner.A partir de allí tomamos ciertas estructuras para el diseño de nuestro proyecto final.  
+ Aquí los 4 integrantes realizamos en figma un mockup, para presentarle al Owner. A partir de allí tomamos ciertas estructuras para el diseño de nuestro proyecto final.  
    
 ![image a](https://laeradelamusica508526020.files.wordpress.com/2021/12/mockup.pablo_.png?w=710)
 
 ![image a](https://laeradelamusica508526020.files.wordpress.com/2021/12/mockup.maria_.png?w=736)  
 
 
- En este sprint pautamos una estructura de proyecto inicial
+ En este sprint pautamos una estructura de proyecto inicial.
 
  ~~~
  ├── public
@@ -81,7 +81,7 @@ title: Front-end
 
  ### Cuarto sprint: CI/CD de Front-end<a name="id2"></a>
 
- El proceso de integración y distribución continuas incorpora la automatización y la supervisión permanentes en todo el ciclo de vida de las aplicaciones, desde las etapas de integración y prueba hasta las de distribución e implementación.También tuvimos que implementarlo en back-end
+ El proceso de integración y distribución continuas incorpora la automatización y la supervisión permanentes en todo el ciclo de vida de las aplicaciones, desde las etapas de integración y prueba hasta las de distribución e implementación. También tuvimos que implementarlo en back-end.
 
 ![image a](https://laeradelamusica508526020.files.wordpress.com/2021/12/ci-front.png?w=1024)
 
@@ -90,9 +90,9 @@ title: Front-end
   Nuestro Dockerfile de Front-end
 ![image a](https://laeradelamusica508526020.files.wordpress.com/2021/12/dockerfile-fronted.png?w=537)
 
- En este punto estuvimos duditativos en la elección de la tecnología,en la rama develop se realizaron con *Vue.js + vuetify* distintos componentes para la página(Menú,footer y carousel).Luego de impartida la clase de *REACT*,votamos y terminamos utilizando esta última tecnología. 
+ En este punto estuvimos duditativos en la elección de la tecnología,en la rama develop se realizaron con *Vue.js + vuetify* distintos componentes para la página(Menú, footer y carousel). Luego de impartida la clase de *REACT*, votamos y terminamos utilizando esta última tecnología. 
 
- El último punto de este sprint es *Crear componentes partiendo de los mockups*.A continuación subimos algunos componentes como se solicita en el sprint: *login,register,sidebar*.
+ El último punto de este sprint es *Crear componentes partiendo de los mockups*. A continuación subimos algunos componentes como se solicita en el sprint: *login,register,sidebar*.
 
 ![image a](https://laeradelamusica508526020.files.wordpress.com/2021/12/sidebar1.png?w=990)
 
