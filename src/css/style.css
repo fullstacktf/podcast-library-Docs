@@ -11,10 +11,10 @@ body  {
 }
  
 th {
-  background: #5bbeff ;
+  background: #ebb558 ;
 }
 td {
-  background: #d9efe0 ;
+  background: #eff7f1 ;
 }
 img {
   display: block;
@@ -29,20 +29,20 @@ color: #ffffff;
 font-size: 18px; 
 font-weight: 400; 
 text-align: center; 
-background: #5496c2; 
+background: #eecd95; 
 margin: 0 0 25px; 
 overflow: hidden; 
 padding: 15px; 
 border-radius: 35px 0px 35px 0px; 
 -moz-border-radius: 35px 0px 35px 0px; 
 -webkit-border-radius: 35px 0px 35px 0px; 
-border: 2px solid #5878ca;}
+border: 2px solid #CDB285;}
 
 h3 {
   background: #f7f5f5;
   font-weight: bold;
   padding: 15px;
-  border-left:8px solid #028484;
+  border-left:8px solid #CDB285;
   border-top-left-radius:8px;
   border-bottom-left-radius:8px;
 }

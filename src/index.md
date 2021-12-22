@@ -3,12 +3,13 @@ layout: base.njk
 title: Podbuster-Documentación
 templateEngineOverride: njk,md
 ---
+
 ### Presentación y Objetivos
 
  Este documento, describe el trabajo realizado en el proyecto final del Curso de programación Web Fullstack:Frontend,Backend y Devop.El mismo fue llevado a cabo desde el 14 de septiembre al 22 de diciembre de 2021.Nuestro grupo de trabajo esta conformado por :  
  
-- **Rafael**
-- **Pablo Hernandez**
+- **Rafael Gandolfo García**
+- **Pablo Hernández Albertos**
 - **Ricardo Pineda**
 - **María Luján Ibrahin**
 
